@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624022022 source:e:\c++ prog\strings\string length,concatinate and copy\main.cpp
+	<iostream>
+	<string.h>
+
